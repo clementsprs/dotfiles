@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clement.spiers@gmail.com
+	name = clement spiers
